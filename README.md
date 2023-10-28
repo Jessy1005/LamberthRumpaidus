@@ -1,6 +1,6 @@
 # Hi there, I'm Lamberth👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
+- 🔭 I’m currently working as Web Development
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
