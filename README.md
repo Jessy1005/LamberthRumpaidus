@@ -27,6 +27,9 @@
 <br />
 
 ---
+&nbsp;&nbsp;
+[![website](./img/whatsapp-light.svg)](https://api.whatsapp.com/qr/2V7HNYQID6UDO1?autoload=1&app_absent=0#gh-light-mode-only)
+[![website](./img/whatsapp-dark.svg)](https://https://api.whatsapp.com/qr/2V7HNYQID6UDO1?autoload=1&app_absent=0#gh-dark-mode-only
 ### Connect with me:
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/lamberthrumpaidus06#gh-light-mode-only)
