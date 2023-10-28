@@ -11,7 +11,7 @@
 
 #### 1. [Universitas Amikom](https://amikom.ac.id/) | INFORMATIKA | Yogyakarta `2023-NOW`
    - ~
- #### 2. [SMA N 1 Mimika](https://smansamimika.sch.id) | MIPA | MIMIKA `2020-2023`
+ #### 2. [SMA N 1 Mimika](https://smansamimika.sch.id) | MIPA | Mimika `2020-2023`
    - Flag Raisers
 
 ### Languages and Tools:
