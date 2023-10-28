@@ -32,5 +32,5 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/lamberthrumpaidus06#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lamberthrumpaidus06#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/whatsapp-light.svg)](https://api.whatsapp.com/qr/2V7HNYQID6UDO1?autoload=1&app_absent=0#gh-light-mode-only)
-[![website](./img/whatsapp-dark.svg)](https://https://api.whatsapp.com/qr/2V7HNYQID6UDO1?autoload=1&app_absent=0#gh-dark-mode-only)
+[![website](./img/whatsapp-light.svg)](https://wa.me/qr/2V7HNYQID6UDO1#gh-light-mode-only)
+[![website](./img/whatsapp-dark.svg)](https://wa.me/qr/2V7HNYQID6UDO1#gh-dark-mode-only)
