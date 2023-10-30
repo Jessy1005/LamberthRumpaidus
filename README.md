@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 - 💬 Ask me anything
 - 📫 Reach me at lamberthpaulinusrumpaidus@gmail.com
 
-## Education
+## Education 
 
 - **Universitas Amikom** | B.S. in Informatics | Yogyakarta | 2023-NOW
 - **SMA N 1 Mimika** | High School Diploma in Science | Mimika | 2020-2023
