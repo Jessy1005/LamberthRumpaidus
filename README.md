@@ -1,7 +1,7 @@
 # Hi there, I'm Lamberth👋
 
 ## About me:
-- 🔭 I’m currently working as Web Development
+- 🔭 I’m currently working as Web Development 
 - 🌱 I’m currently learning Python, Javascript, CSS, and C++
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
