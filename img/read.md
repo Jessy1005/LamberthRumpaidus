@@ -1,2 +1,2 @@
-ini gambar
+DIPAKAI YAA
 terimakasih
