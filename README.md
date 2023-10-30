@@ -33,6 +33,24 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 </details>
 
+## Skills
+
+- **Frontend**: React, Next.js, Material-UI, Ant Design
+   ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+   ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)
+   ![Material-UI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)
+   ![Ant Design](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg)
+- **Styling**: Tailwind CSS, Sass
+   ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)
+   ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
+- **Backend**: Node.js
+   ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+- **Database**: MySQL
+   ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)
+- **Content Management**: Contentful
+   ![Contentful](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contentful/contentful-original.svg)
+- **Testing**: React Testing Library
+   ![React Testing Library](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg)
 
 ## Languages
 
@@ -43,7 +61,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 ## Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
