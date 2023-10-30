@@ -41,7 +41,8 @@ I'm a driven individual with a keen interest in web development and cybersecurit
 
 ## Skills
 
-
+<details>
+  
   <summary><b>Programming Languages</b></summary>
   
   - Python
