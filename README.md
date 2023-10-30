@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 ## Education 
 
-## Education
-
 <details>
   <summary><b>Universitas Amikom</b> | Informatics | Yogyakarta | 2023-NOW</summary>
   
