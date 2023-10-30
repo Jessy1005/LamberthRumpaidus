@@ -35,5 +35,3 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/lamberthrumpaidus06#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/lamberthrumpaidus06#gh-dark-mode-only)
-[![TikTok](./img/tiktok-icon.png)](https://www.tiktok.com/@namaakuntiktok)
-[![Facebook](./img/facebook-icon.png)](https://www.facebook.com/namaakunfacebook)
