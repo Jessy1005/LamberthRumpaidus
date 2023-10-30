@@ -1,50 +1,39 @@
-# Hi there, I'm Lamberth👋
+# Hi there, I'm Lamberth 👋
 
-## About me:
-- 🔭 I’m currently working as Web Development 
-- 🌱 I’m currently learning Python, Javascript, CSS, and C++
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: lamberthpaulinusrumpaidus@gmail.com
+Welcome to my GitHub profile! I'm a passionate web developer and aspiring data enthusiast. 
 
-## Education:
+## About Me
 
-#### 1. [Universitas Amikom](https://amikom.ac.id/) | INFORMATIKA | Yogyakarta `2023-NOW`
-   - ~
- #### 2. [SMA N 1 Mimika](https://smansamimika.sch.id) | MIPA | Mimika `2020-2023`
-   - ~
+- 🔭 Currently working on web development projects
+- 🌱 Learning Python, JavaScript, CSS, and C++
+- 👯 Open to collaboration in Data Automation and Analysis
+- 🤔 Looking for interesting Rust project ideas
+- 💬 Ask me anything
+- 📫 Reach me at lamberthpaulinusrumpaidus@gmail.com
 
+## Education
 
----
-### Languages:
+- **Universitas Amikom** | B.S. in Informatics | Yogyakarta | 2023-NOW
+- **SMA N 1 Mimika** | High School Diploma in Science | Mimika | 2020-2023
 
-<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+## Languages
 
-<br />
-<br />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+## Tools
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-### Tools:
+## Connect with Me
 
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />
-<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:10px;" />
-<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
-
-<br />
-<br />
-
-
-
----
-### Connect with me:
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/lamberthrumpaidus06#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/lamberthrumpaidus06#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/lamberthrumpaidus06#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/lamberthrumpaidus06#gh-dark-mode-only)
+[![TikTok](./img/tiktok-icon.png)](https://www.tiktok.com/@namaakuntiktok)
+[![Facebook](./img/facebook-icon.png)](https://www.facebook.com/namaakunfacebook)
