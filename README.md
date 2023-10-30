@@ -1,14 +1,14 @@
 # Hi there, I'm Lamberth 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer and aspiring data enthusiast.
+Welcome to my GitHub profile! I'm a passionate web developer and aspiring data enthusiast, with a strong background in Python, JavaScript, CSS, and C++.
 
 ## About Me
 
 - 🔭 Currently working on web development projects
-- 🌱 Learning Python, JavaScript, CSS, and C++
+- 🌱 Learning and mastering Python, JavaScript, CSS, and C++
 - 👯 Open to collaboration in Data Automation and Analysis
-- 🤔 Looking for interesting Rust project ideas
-- 💬 Ask me anything
+- 🤔 Eager to contribute to interesting Rust projects
+- 💬 Ask me anything about web development, data analysis, or programming
 - 📫 Reach me at lamberthpaulinusrumpaidus@gmail.com
 
 ## Education
@@ -79,6 +79,17 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
   - React Testing Library
   - Jest
+
+</details>
+
+<details>
+  <summary><b>Web Penetration Testing</b></summary>
+
+  - OWASP Top Ten vulnerabilities
+  - SQL injection
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - Security Scanning Tools (e.g., Burp Suite, OWASP ZAP)
 
 </details>
 
