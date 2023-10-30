@@ -13,8 +13,28 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 ## Education 
 
-- **Universitas Amikom** | B.S. in Informatics | Yogyakarta | 2023-NOW
-- **SMA N 1 Mimika** | High School Diploma in Science | Mimika | 2020-2023
+## Education
+
+<details>
+  <summary><b>Universitas Amikom</b> | Informatics | Yogyakarta | 2023-NOW</summary>
+  
+  - Pursuing my passion for technology at the renowned Universitas Amikom.
+  - Gaining valuable insights into the world of informatics, honing my coding skills.
+  - Collaborating with bright minds on exciting projects.
+  - Building a strong foundation for my future career in IT.
+
+</details>
+
+<details>
+  <summary><b>SMA N 1 Mimika</b> | Science | Mimika | 2020-2023</summary>
+  
+  - Nurturing my curiosity in the realm of science and mathematics.
+  - Participating in science fairs and academic competitions.
+  - Fostering a love for learning and problem-solving.
+  - Shaping my academic journey towards a bright future.
+
+</details>
+
 
 ## Languages
 
