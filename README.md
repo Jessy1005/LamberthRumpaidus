@@ -93,19 +93,47 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 </details>
 
-## Languages
+## Security 
+
+<details>
+  <summary><b>OWASP Top Ten vulnerabilities</b></summary>
+
+  - SQL injection
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+
+</details>
+
+<details>
+  <summary><b>Security Scanning Tools</b></summary>
+
+  - Burp Suite
+  - OWASP ZAP
+
+</details>
+
+## Languages and Tools
+
+**Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https.img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-## Tools
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**Tools:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material-UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io.badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io.badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ## Connect with Me
 
