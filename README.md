@@ -1,30 +1,15 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Lamberth 👋</h1>
-<p align="center">Welcome to my GitHub profile!</p>
+# Hi there, I'm Lamberth 👋
 
-<!-- Introduction -->
-<p align="center">I'm a passionate web developer and aspiring data enthusiast. I enjoy crafting web experiences and delving into data analysis.</p>
+Welcome to my GitHub profile! I'm a passionate web developer and aspiring data enthusiast. 
 
-<!-- Current Focus -->
-<h3 align="center">🚀 Current Focus:</h3>
-<p align="center">Working on exciting web development projects and continuously improving my coding skills.</p>
+## About Me
 
-<!-- Learning -->
-<h3 align="center">🌱 Learning:</h3>
-<p align="center">Python, JavaScript, CSS, C++, and exploring the world of data analysis.</p>
-
-<!-- Collaboration -->
-<h3 align="center">👯 Open to Collaboration:</h3>
-<p align="center">Looking for opportunities in Data Automation and Analysis. Let's create something amazing together!</p>
-
-<!-- Project Ideas -->
-<h3 align="center">🤔 Rust Project Ideas:</h3>
-<p align="center">I'm seeking intriguing Rust project ideas to challenge my problem-solving abilities.</p>
-
-<!-- Contact Me -->
-<h3 align="center">💬 Contact Me:</h3>
-<p align="center">Feel free to ask me anything or connect for discussions.</p>
-<p align="center">📫 Email: lamberthpaulinusrumpaidus@gmail.com</p>
+- 🔭 Currently working on web development projects
+- 🌱 Learning Python, JavaScript, CSS, and C++
+- 👯 Open to collaboration in Data Automation and Analysis
+- 🤔 Looking for interesting Rust project ideas
+- 💬 Ask me anything
+- 📫 Reach me at lamberthpaulinusrumpaidus@gmail.com
 
 ## Education 
 
