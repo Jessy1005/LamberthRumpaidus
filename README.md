@@ -1,7 +1,7 @@
 # Hi there, I'm Lamberth👋
 ## About me:
 - 🔭 I’m currently working as Web Development
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Python, Javascript, CSS, and C++
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
@@ -16,6 +16,8 @@
 ### Languages:
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 
 <br />
