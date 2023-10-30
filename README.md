@@ -35,7 +35,7 @@ I'm a driven individual with a keen interest in web development and cybersecurit
   - Fostering a love for learning and problem-solving.
   - Shaping my academic journey towards a bright future.
 
-<details>
+</details>
 
 ---  
 
