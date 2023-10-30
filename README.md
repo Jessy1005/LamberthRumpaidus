@@ -35,22 +35,52 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 ## Skills
 
-- **Frontend**: React, Next.js, Material-UI, Ant Design
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30" height="30">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" height="30">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="30" height="30">
-- **Styling**: Tailwind CSS, Sass
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30" height="30">
-- **Backend**: Node.js
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30">
-- **Database**: MySQL
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="30">
-- **Content Management**: Contentful
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contentful/contentful-original.svg" width="30" height="30">
-- **Testing**: React Testing Library
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30" height="30">
+<details>
+  <summary><b>Frontend</b></summary>
+
+  - React
+  - Next.js
+  - Material-UI
+  - Ant Design
+
+</details>
+
+<details>
+  <summary><b>Styling</b></summary>
+
+  - Tailwind CSS
+  - Sass
+
+</details>
+
+<details>
+  <summary><b>Backend</b></summary>
+
+  - Node.js
+
+</details>
+
+<details>
+  <summary><b>Database</b></summary>
+
+  - MySQL
+
+</details>
+
+<details>
+  <summary><b>Content Management</b></summary>
+
+  - Contentful
+
+</details>
+
+<details>
+  <summary><b>Testing</b></summary>
+
+  - React Testing Library
+  - Jest
+
+</details>
 
 ## Languages
 
