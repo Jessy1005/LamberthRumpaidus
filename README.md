@@ -1,4 +1,5 @@
 # Hi there, I'm Lamberth👋
+
 ## About me:
 - 🔭 I’m currently working as Web Development
 - 🌱 I’m currently learning Python, Javascript, CSS, and C++
@@ -12,7 +13,7 @@
 #### 1. [Universitas Amikom](https://amikom.ac.id/) | INFORMATIKA | Yogyakarta `2023-NOW`
    - ~
  #### 2. [SMA N 1 Mimika](https://smansamimika.sch.id) | MIPA | Mimika `2020-2023`
-   - Flag Raisers
+   - ~
 
 
 ---
