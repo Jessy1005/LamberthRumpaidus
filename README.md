@@ -35,25 +35,22 @@ Welcome to my GitHub profile! I'm a passionate web developer and aspiring data e
 
 ## Skills
 
-## Skills
-
 - **Frontend**: React, Next.js, Material-UI, Ant Design
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="20" height="20">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="20" height="20">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="20" height="20">
+   ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+   ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)
+   ![Material-UI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)
+   ![Ant Design](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg)
 - **Styling**: Tailwind CSS, Sass
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="20">
+   ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)
+   ![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
 - **Backend**: Node.js
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20">
+   ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
 - **Database**: MySQL
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20">
+   ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)
 - **Content Management**: Contentful
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contentful/contentful-original.svg" width="20" height="20">
+   ![Contentful](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/contentful/contentful-original.svg)
 - **Testing**: React Testing Library
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20" height="20">
-
+   ![Jest](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg)
 
 ## Languages
 
